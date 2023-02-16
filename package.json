@@ -1,7 +1,7 @@
 {
   "name": "15tut",
   "version": "1.0.0",
-  "description": "MongoDB tutorial",
+  "description": "Refresh Token Rotation and Reuse Detection",
   "main": "server.js",
   "scripts": {
     "start": "node server",
